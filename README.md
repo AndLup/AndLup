@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hola 👋 Soy Andrés Lupian Y Soy Desarrollador Web
+![image](https://user-images.githubusercontent.com/90223794/142569034-7697886d-9ea3-48f6-8bbb-704e4141283c.png)
 
-<!--
-**AndLup/AndLup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
