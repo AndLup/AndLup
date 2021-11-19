@@ -1,8 +1,7 @@
 ### Hola 👋 Soy Andrés Lupian Y Soy Desarrollador Web
 
 
-![image](https://user-images.githubusercontent.com/90223794/142569992-407bf92b-1a10-47d6-8e61-c00d74361957.png)
-
+![image](https://user-images.githubusercontent.com/90223794/142570108-4aa8be58-afae-4256-b627-2edcd40bbd16.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
