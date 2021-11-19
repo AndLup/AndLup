@@ -3,9 +3,17 @@ Hello! 👋 My Name Is Andres Lupian And I'm Web-Developer
 ![image](https://user-images.githubusercontent.com/90223794/142571044-a3b2d93a-bbb2-4598-bfc1-b7ab759bd1ad.png)
 
 #
+#
 
-![AndLup GitHub stats](https://github-readme-stats.vercel.app/api?username=AndLup&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andlup&layout=compact&theme=dark)](https://github.com/andlup/github-readme-stats)
+![AndLup GitHub stats](https://github-readme-stats.vercel.app/api?username=AndLup&show_icons=true&theme=dark) 
 
+#
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andlup&layout=compact&theme=dark)](https://github.com/andlup/github-readme-stats)
+
+#
+#
 
 <div style="display: inline_block">
   
@@ -23,7 +31,8 @@ Hello! 👋 My Name Is Andres Lupian And I'm Web-Developer
   <img align="center" height="30"  width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </div>
 
-##
+#
+#
 
 
 
@@ -39,7 +48,8 @@ Hello! 👋 My Name Is Andres Lupian And I'm Web-Developer
 ![image](https://aleen42.github.io/badges/src/flash.svg)
 
 
-##
+#
+#
 
 
 ![image](https://user-images.githubusercontent.com/90223794/142584008-417c05f9-2d29-47fa-b7d7-5580c969a7fd.png)
