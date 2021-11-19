@@ -1,3 +1,5 @@
+Hello! 👋 My Name Is Andres Lupian And I'm Web-Developer
+
 ![image](https://user-images.githubusercontent.com/90223794/142571044-a3b2d93a-bbb2-4598-bfc1-b7ab759bd1ad.png)
 
 #
@@ -12,8 +14,6 @@
   <img align="center" height="30"  width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img align="center" height="30"  width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img align="center" height="30"  width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img align="center" height="30"  width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img align="center" height="30"  width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" height="30"  width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
   <img align="center" height="30"  width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="30"  width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
